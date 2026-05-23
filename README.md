@@ -17,7 +17,7 @@ install `tensorflow-gpu` instead of `tensorflow`. Details for installation can b
 In order to train a decent model, having copious amounts of data is necessary.
 However, getting a large enough dataset of actual handwritten Korean characters
 is challenging to find and cumbersome to create.
-
+  
 One way to deal with this data issue is to programmatically generate the data
 yourself, taking advantage of the abundance of Korean font files found online.
 So, that is exactly what we will be doing.
